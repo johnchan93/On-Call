@@ -1,0 +1,4 @@
+streamlit
+holidays
+pandas
+python-dotenv
